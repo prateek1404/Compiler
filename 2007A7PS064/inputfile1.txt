@@ -1,0 +1,27 @@
+main
+begin
+int y;
+int x;
+int fact;
+int p;
+
+	x=0;
+	p=5;
+	y=(x+p)+(y+5);
+	print x;
+	while(x.<.p)
+	begin
+		x=x+1;	
+		end
+	if(x.=.p)
+		begin
+			if(y.>.x)
+			begin
+			y=y-1;
+			end
+		end
+	fact = p+y;
+
+
+	print y ;
+end

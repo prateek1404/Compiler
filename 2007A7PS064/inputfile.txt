@@ -1,0 +1,21 @@
+main
+begin
+int y;
+int x;
+int fact;
+int p;
+	x=5;
+
+	if(y.>=.p)
+		begin
+		if(p.>.x)begin
+			y=y*y*(y*(y*y)*y*y);
+			y=y/y/y/y/y/y;end
+		end
+	if(y.<=.p)
+		begin
+			y=y-1;
+		end
+end
+
+

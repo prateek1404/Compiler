@@ -1,0 +1,8 @@
+Name: p		Encfun: main		Fun or Var:0		VarType: 1		Line no: 6		Width: 4
+
+Name: x		Encfun: main		Fun or Var:0		VarType: 1		Line no: 4		Width: 4
+
+Name: y		Encfun: main		Fun or Var:0		VarType: 1		Line no: 3		Width: 4
+
+Name: fact		Encfun: main		Fun or Var:0		VarType: 1		Line no: 5		Width: 4
+
